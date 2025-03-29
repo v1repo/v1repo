@@ -8,6 +8,10 @@
 - [https://v1repo.github.io/E-28/ttt4.html](https://v1repo.github.io/E-28/ttt4.html)
 - [https://v1repo.github.io/E-28/ttt5.html](https://v1repo.github.io/E-28/ttt5.html)
 
+
+## Wordle Game
+- [https://v1repo.github.io/E-28/Vin'sWordleGame.html](https://v1repo.github.io/E-28/Vin'sWordleGame.html)
+
 <!--
 **v1repo/v1repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
